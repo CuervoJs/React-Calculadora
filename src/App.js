@@ -10,6 +10,7 @@ import { evaluate } from 'mathjs';
 
 function App() {
   //La calculadora maxima v:
+  //Calculadora con repositorio git
   //Hooks son para poder asignar valores a los hijos de los props
   const [input, setInput] = useState('');
 
