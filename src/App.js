@@ -9,7 +9,7 @@ import { useState } from 'react';
 import { evaluate } from 'mathjs';
 
 function App() {
- //Holi
+  //La calculadora maxima v:
   //Hooks son para poder asignar valores a los hijos de los props
   const [input, setInput] = useState('');
 
